@@ -1,1 +1,1 @@
-""""""""""""""""""""""English"""""""""""""""""""""""""""""""""""
+*This is a basic console game which implements object oriented programmation
