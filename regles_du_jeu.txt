@@ -1,1 +1,1 @@
-""""""""""""""""""""""FRANCAIS"""""""""""""""""""""""""""""""""""
+*Ceci est un jeu basique dans la console implémentant la programmation orientée objet
